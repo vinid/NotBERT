@@ -1,2 +1,4 @@
 # NotBERT
-An extension of the previously introduced NoBERT
+An extension of the previously introduced `NoBERT <https://github.com/vinid/NoBERT>`_
+
+Still not a BERT model
